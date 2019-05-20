@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\新井貴紘\desktop\オセロのプロジェクト\main.cpp(782): warning C4101: 'W': ローカル変数は 1 度も使われていません。
+c:\users\新井貴紘\desktop\オセロのプロジェクト\main.cpp(782): warning C4101: 'B': ローカル変数は 1 度も使われていません。
+c:\users\新井貴紘\desktop\オセロのプロジェクト\main.cpp(828): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\新井貴紘\desktop\オセロのプロジェクト\main.cpp(804): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+  otamesi_Project.vcxproj -> C:\Users\新井貴紘\Desktop\オセロのプロジェクト\Debug\otamesi_Project.exe
+  otamesi_Project.vcxproj -> C:\Users\新井貴紘\Desktop\オセロのプロジェクト\Debug\otamesi_Project.pdb (Partial PDB)
